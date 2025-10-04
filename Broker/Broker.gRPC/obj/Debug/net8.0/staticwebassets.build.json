@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+xf4Vtv8+4I90IbAbdXpPnhXPYQFPEltY9y0Jmqp4XI=",
+  "Source": "Broker.gRPC",
+  "BasePath": "_content/Broker.gRPC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

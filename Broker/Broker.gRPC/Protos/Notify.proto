@@ -1,0 +1,17 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "Broker.gRPC";
+
+package GrpcAgent;
+
+service Notifier {
+  rpc Notify (NotifyRequest) returns (NotifyReply);
+}
+
+message NotifyRequest {
+  string content = 1;
+}
+
+message NotifyReply {
+  bool success = 1;
+}
