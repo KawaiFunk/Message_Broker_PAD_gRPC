@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c2bd3910-f1e1-4afd-bd49-6f8d9d808d1d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Broker/Broker.gRPC/bin/Debug/net8.0/Broker.gRPC.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Broker/Broker.gRPC/bin/Debug/net8.0/Broker.gRPC.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Broker/Broker.gRPC/bin/Debug/net8.0/Broker.gRPC.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Broker/Broker.gRPC/bin/Debug/net8.0/Broker.gRPC.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Broker/Broker.gRPC/bin/Debug/net8.0/Broker.gRPC.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Broker/Broker.gRPC/bin/Debug/net8.0/Broker.gRPC.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Broker.gRPC.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Broker.gRPC.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Broker.gRPC.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Broker.gRPC.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/12fbc7ffe642ca7e_Notify.protodep" beforeDir="false" afterPath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/12fbc7ffe642ca7e_Notify.protodep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/12fbc7ffe642ca7e_Publish.protodep" beforeDir="false" afterPath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/12fbc7ffe642ca7e_Publish.protodep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/12fbc7ffe642ca7e_Subscribe.protodep" beforeDir="false" afterPath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/12fbc7ffe642ca7e_Subscribe.protodep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/Broker.gRPC.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/Broker.gRPC.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/Broker.gRPC.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/Broker.gRPC.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/Broker.gRPC.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/Broker.gRPC.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/Broker.gRPC.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/Broker.gRPC.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/Broker.gRPC.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/Broker.gRPC.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/Broker.gRPC.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/Broker.gRPC.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/Broker.gRPC.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/Broker.gRPC.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/Broker.gRPC.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/Broker.gRPC.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/Broker.gRPC.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/Broker.gRPC.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/Broker.gRPC.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/Broker.gRPC.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/Protos/Notify.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/Protos/Notify.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/Protos/NotifyGrpc.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/Protos/NotifyGrpc.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/Protos/Publish.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/Protos/Publish.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/Protos/PublishGrpc.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/Protos/PublishGrpc.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/Protos/Subscribe.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/Protos/Subscribe.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/Protos/SubscribeGrpc.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/Protos/SubscribeGrpc.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/ref/Broker.gRPC.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/ref/Broker.gRPC.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/refint/Broker.gRPC.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/Debug/net8.0/refint/Broker.gRPC.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../../Broker/Broker.gRPC/obj/rider.project.restore.info" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="33htlU9Hm0TOT3XJRdJhi6YPbKs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26199.169" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2bd3910-f1e1-4afd-bd49-6f8d9d808d1d" name="Changes" comment="" />
+      <created>1759781283164</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759781283164</updated>
+    </task>
+    <servers />
+  </component>
+</project>

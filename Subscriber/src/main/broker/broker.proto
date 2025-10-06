@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+package GrpcAgent;
+option csharp_namespace = "Broker.gRPC";
+
+option java_package = "grpc.agent";
+option java_multiple_files = true;
+
+service Subscriber {
+  rpc Subscribe (SubscribeRequest) returns (SubscribeReply);
+}
+
+message SubscribeRequest {
+  string topic = 1;
+  string address = 2;
+}
+
+message SubscribeReply {
+  bool success = 1;
+}
